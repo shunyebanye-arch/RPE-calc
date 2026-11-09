@@ -22,6 +22,7 @@
 ## セッション
 
 ### 2026-11-09
+_W2 Day1。補助4セットはキツイ→補助は全て3セットに変更_
 
 | 種目 | 重量 | レップ×セット | RPE | e1RM | メモ |
 |---|---|---|---|---|---|
@@ -32,8 +33,10 @@
 | BP | 97.5 | 9×1 |  |  | 3set目 |
 | BP | 97.5 | 8×1 |  |  | 4set目 → 未達。次回97.5x8x4 |
 | BulgarianSQ | 18 | 8×3 |  |  | DB18kg |
+| ChestSupportedRow | 22 | 10×3 |  |  | DB |
+| CableLateralRaise | 7.5 | 10×3 |  |  |  |
 
-ボリューム: SQ 3,480kg, BP 3,608kg, BULGARIANSQ 432kg
+ボリューム: SQ 3,480kg, BP 3,608kg, BULGARIANSQ 432kg, CHESTSUPPORTEDROW 660kg, CABLELATERALRAISE 225kg
 
 ### 2026-11-06
 _W1 Day4 時短(60分)。BPは前日実施のためなし_
